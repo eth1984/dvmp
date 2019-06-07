@@ -1,2 +1,0 @@
-# dvmp
-DLRG Management Tool
